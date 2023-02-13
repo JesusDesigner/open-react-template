@@ -1,0 +1,20 @@
+import React from 'react';
+// import sections
+
+
+import Testimonial from '../components/sections/anuncios';
+import Cta from '../components/sections/Cta';
+
+const anuncios = () => {
+
+  return (
+    <>
+     
+      <anuncios />
+      <Testimonial topDivider />
+      <Cta split />
+    </>
+  );
+}
+
+export default anuncios;
