@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1081d6af.chunk.css",
+    "main.js": "/static/js/main.0ed9c871.chunk.js",
+    "main.js.map": "/static/js/main.0ed9c871.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf9f4589.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf9f4589.js.map",
+    "static/js/2.3bbe9284.chunk.js": "/static/js/2.3bbe9284.chunk.js",
+    "static/js/2.3bbe9284.chunk.js.map": "/static/js/2.3bbe9284.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.56539697b88b1ebefb80ae4f326cfd4d.js": "/precache-manifest.56539697b88b1ebefb80ae4f326cfd4d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1081d6af.chunk.css.map": "/static/css/main.1081d6af.chunk.css.map",
+    "static/js/2.3bbe9284.chunk.js.LICENSE.txt": "/static/js/2.3bbe9284.chunk.js.LICENSE.txt",
+    "static/media/amdm.png": "/static/media/amdm.c61dc6e2.png",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/features-split-image-01.png": "/static/media/features-split-image-01.b506bc38.png",
+    "static/media/features-split-image-02.png": "/static/media/features-split-image-02.a7bc9af8.png",
+    "static/media/features-split-image-03.png": "/static/media/features-split-image-03.87e4d053.png",
+    "static/media/ic.png": "/static/media/ic.509fad7d.png",
+    "static/media/levi.png": "/static/media/levi.52328f47.png",
+    "static/media/logo.svg": "/static/media/logo.70d403b8.svg",
+    "static/media/nego.png": "/static/media/nego.f6498c4b.png",
+    "static/media/socios.png": "/static/media/socios.10085187.png",
+    "static/media/superacao.png": "/static/media/superacao.b836b3ef.png",
+    "static/media/video-placeholder.jpg": "/static/media/video-placeholder.a05dc693.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf9f4589.js",
+    "static/js/2.3bbe9284.chunk.js",
+    "static/css/main.1081d6af.chunk.css",
+    "static/js/main.0ed9c871.chunk.js"
+  ]
+}
