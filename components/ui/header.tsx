@@ -33,6 +33,11 @@ export default function Header() {
                   Sign up
                 </Link>
               </li>
+              <li>
+                <Link href="/signup" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                  Whattsapp
+                </Link>
+              </li>
             </ul>
           </nav>
 
